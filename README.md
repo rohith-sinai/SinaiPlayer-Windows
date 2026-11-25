@@ -58,7 +58,7 @@ A modern, immersive media player for Windows built for locally stored music and 
 
 | Default style (after controls faded) |
 | :---: |
-| ![Default style without controls](screenshots/now-playing-m.png) |
+| ![Default style without controls](screenshots/now-playing.png) |
 
 | Queue |
 | :---: |
