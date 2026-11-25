@@ -94,6 +94,14 @@ Yes, iTunes purchased music will play in full quality. But you must download the
 
 Yes it is, Unlike those apps this app has more functionality and features with updated and modern UI compared with them. And it plays both video and audio files supporting wide range of formats like VLC and has the modern design than the windows media player
 
+## 👨‍💻 Building from Source
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rohith-sinai/SinaiPlayer-Windows.git
+   ```
+2. Open `SinaiPlayer.sln` in **Visual Studio 2022** (ensure the *Universal Windows Platform development* or *Windows App SDK* workload is installed).
+3. Select your target architecture (`x64`, `x86`, or `ARM64`) and press `F5` to build and run.
+
 ## 🙏 Follow us
 
 #### App
@@ -116,7 +124,12 @@ Yes it is, Unlike those apps this app has more functionality and features with u
   </a>
 </p>
 
+## 🤝 Contributing
+
 We're looking for more contributors and maintainers!
 If you'd like to be a maintainer, please DM us on any of these social platforms
 
 In any case, if you find or notice any bugs please report them by creating an issue or by contacting us via our [support email](mailto:business.rohithsinai@gmail.com). If you have any feature suggestions, please create an issue with detailed information or by contacting us via [email](mailto:business.rohithsinai@gmail.com) or from any one of these social platforms
+
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
