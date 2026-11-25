@@ -56,6 +56,10 @@ A modern, immersive media player for Windows built for locally stored music and 
 | :---: |
 | ![Default style](screenshots/now-playing-with-controls.png) |
 
+| Default style (after controls faded) |
+| :---: |
+| ![Default style without controls](screenshots/now-playing-m.png) |
+
 | Queue |
 | :---: |
 | ![Queue](screenshots/now-playing-queue.png) |
@@ -115,4 +119,4 @@ Yes it is, Unlike those apps this app has more functionality and features with u
 We're looking for more contributors and maintainers!
 If you'd like to be a maintainer, please DM us on any of these social platforms
 
-In any case, if you find or notice any bugs please report them by creating an issue or by contacting us via our [support email](business.rohithsinai@gmail.com). If you have any feature suggestions, please create an issue with detailed information or by contacting us via [email](business.rohithsinai@gmail.com) or from any one of these social platforms
+In any case, if you find or notice any bugs please report them by creating an issue or by contacting us via our [support email](mailto:business.rohithsinai@gmail.com). If you have any feature suggestions, please create an issue with detailed information or by contacting us via [email](mailto:business.rohithsinai@gmail.com) or from any one of these social platforms
